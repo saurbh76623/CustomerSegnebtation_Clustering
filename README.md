@@ -1,3 +1,5 @@
+<img width="1137" height="505" alt="image" src="https://github.com/user-attachments/assets/766c9c00-d683-4d78-bfbe-f23ecfc635d9" />
+
 # 🛍️ Customer Segmentation using K-Means Clustering
 Identified distinct customer groups based on spending behavior to support targeted marketing strategies.
 
